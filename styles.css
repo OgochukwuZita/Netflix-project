@@ -206,39 +206,7 @@ bottom: 450px;
     padding-top: 30px;
     cursor: pointer;
     }
-    .Netflix img {
-        position: relative;
-        bottom: 30px;
-        left: 496px;
- }
- .cost img {
-    position: relative;
-        bottom: 30px;
-        left: 345px;
- }
-.watch img {
-    position: relative;
-        bottom: 30px;
-        left: 458px;
-}
-.cancel img {
-    position: relative;
-        bottom: 30px;
-        left: 482px;
-}
-.watch2 img{
-    position: relative;
-        bottom: 30px;
-        left: 355px;
-}
-.kids img {
-    position: relative;
-        bottom: 30px;
-        left: 408px;
-}
-
-
-
+    
 
 
 .membership{
