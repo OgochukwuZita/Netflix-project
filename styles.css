@@ -1,5 +1,5 @@
 #body {
-    background-color: grey;
+    background-color: black;
     color: #ffffff;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
        }
@@ -187,7 +187,118 @@ bottom: 450px;
     background-color: black;
     border: 2px solid grey;
 }
+
+.section6 h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    position: relative;
+    top: 5px;
+}
+
+
+.Netflix,.cost,.watch, .cancel, .watch2, .kids {
+    border: 1px solid grey;
+    width: 800px;
+    height: 40px;
+    background-color:#474747;
+    font-size: 25px;
+    padding-top: 30px;
+    cursor: pointer;
+    }
+    .Netflix img {
+        position: relative;
+        bottom: 30px;
+        left: 496px;
+ }
+ .cost img {
+    position: relative;
+        bottom: 30px;
+        left: 345px;
+ }
+.watch img {
+    position: relative;
+        bottom: 30px;
+        left: 458px;
+}
+.cancel img {
+    position: relative;
+        bottom: 30px;
+        left: 482px;
+}
+.watch2 img{
+    position: relative;
+        bottom: 30px;
+        left: 355px;
+}
+.kids img {
+    position: relative;
+        bottom: 30px;
+        left: 408px;
+}
+
+
+
+
+
+.membership{
+    text-align: center;
+    font-size: 20px;
+    font-weight: light;
+    position: relative;
+    right: 75px;
+}
+
+.container5 {
+    display: flex;
+    position: relative;
+    text-align: center;
+    left: 350px;
+    padding-bottom: 100px;
+}
+.gstarted2 button {
+background-color: red;
+width: 250px;
+height: 70px;
+color: #ffffff;
+font-size: 25px;
+border: 1px solid red;
+position: relative;
+top: 2px;
+}
+
 .section7 {
     background-color: black;
     border: 2px solid grey;
+    height: 250px;
+    padding: 100px 300px 50px;
 }
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+li {
+    list-style: none;
+    color: grey;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.anchor {
+    position: relative;
+    left: 40px;
+}
+
+
+
+
+
+
+
+   
